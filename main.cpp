@@ -1,6 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 #include "Process.h"
 #include "Result.h"
 #include "FCFS.h"
